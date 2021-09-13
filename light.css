@@ -1,0 +1,13 @@
+@font-face {
+font-family: 'Tahoma';
+src: url('https://turnoffthetv.github.io/fonts/tahoma.ttf') format('truetype');
+}
+
+body {
+	background-color:aqua;
+	text-font:"Tahoma";
+}
+
+a {
+	color:green;
+}
